@@ -460,6 +460,11 @@ Invoke 지연을 통해 업데이트 함수를 사용하지 않아 부담을 줄
 
 ## 6주차
 
+<video controls width="480" height="360">
+    <source src="files/week6.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
 1.배경<br>
 배경 전용 카메라 구현 ==> 100%<br>
 배경 전용 카메라를 구현하지않고 배경의 크기를 구해<br>
