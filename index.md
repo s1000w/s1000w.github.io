@@ -531,23 +531,23 @@ Invoke 지연을 통해 업데이트 함수를 사용하지 않아 부담을 줄
 
  ## 5주
  <img src="./img/player.png" width="640" height="480">
-플레이어 이미지
+플레이어 이미지  
  <img src="./img/player_ring.png" width="640" height="480">
-플레이어 링 이미지
+플레이어 링 이미지  
 
 플레이어 스프라이트, 애니메이션 제작  
 
  ## 6주
  <img src="./img/impSingle.png" width="640" height="480">
-적군 이미지
+적군 이미지  
  
 적군 스프라이트 제작  
 
 ## 7주
  <img src="./img/weapon_sword.png" width="640" height="480">
-칼 이미지
+칼 이미지  
 
-플레이어 무기(칼) 스프라이트 제작
+플레이어 무기(칼) 스프라이트 제작  
 
 
 ## 8주
@@ -570,10 +570,10 @@ Invoke 지연을 통해 업데이트 함수를 사용하지 않아 부담을 줄
 
 ## 10주
  <img src="./img/weapon_bow.png" width="640" height="480">
-활 이미지
+활 이미지  
 
 <img src="./img/weapon_stachu01.png" width="640" height="480">
-공격 구조물 이미지
+공격 구조물 이미지  
 
 활 스프라이트 제작 >> 100%  
 구조물 스프라이트 제작 >> 50%  
