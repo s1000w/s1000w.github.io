@@ -593,5 +593,13 @@ Invoke 지연을 통해 업데이트 함수를 사용하지 않아 부담을 줄
 웨이브 수치 조정 >> 90%  
 
 ## 12주
+<video controls width="480" height="360">
+    <source src="files/re-week13.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
+<br>
+배경 스프라이트 제작 >> 100%
+배경음 및 효과음 추가 >> 100%
 
+씬이동시 플레이어 회전이 멈추는 버그 픽스 >> 100%
 
