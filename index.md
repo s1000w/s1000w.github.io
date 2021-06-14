@@ -532,7 +532,7 @@ Invoke 지연을 통해 업데이트 함수를 사용하지 않아 부담을 줄
  ## 5주
  <img src="./img/player.png" width="640" height="480">
 플레이어 이미지  
- <img src="./img/player_ring.png" width="640" height="480">
+ <img src="./img/player_ring.png" width="720" height="480">
 플레이어 링 이미지  
 <br>
 플레이어 스프라이트, 애니메이션 제작  
