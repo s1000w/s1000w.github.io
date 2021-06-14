@@ -530,28 +530,64 @@ Invoke 지연을 통해 업데이트 함수를 사용하지 않아 부담을 줄
 각 교단의 패시브 스킬 1개씩 추가 >> 100%  
 
  ## 5주
+ <img src="./img/player.png" width="640" height="480">
+플레이어 이미지
+ <img src="./img/player_ring.png" width="640" height="480">
+플레이어 링 이미지
+
 플레이어 스프라이트, 애니메이션 제작  
-각 교단의 공격, 스킬 스프라이트 제작  
 
  ## 6주
+ <img src="./img/impSingle.png" width="640" height="480">
+적군 이미지
+ 
 적군 스프라이트 제작  
 
 ## 7주
+ <img src="./img/weapon_sword.png" width="640" height="480">
+칼 이미지
+
+플레이어 무기(칼) 스프라이트 제작
+
 
 ## 8주
+<video controls width="480" height="360">
+    <source src="files/re-week8.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
 플레이어 무기 스프라이트 코드 적용 >> 50%  
 회전하는 코드애 오류가 있음  
 무기별로 트랜스폼을 나누고 근접 공격의 경우  
 스프라이트를 반전시켜 플레이어 주변을 회전하도록 적용  
 
 ## 9주
+<video controls width="480" height="360">
+    <source src="files/re-week9.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
 무기 회전 코드 오류 수정 >> 100%  
 
 ## 10주
-활, 화살 스프라이트 제작 >> 100%  
+ <img src="./img/weapon_bow.png" width="640" height="480">
+활 이미지
+
+<img src="./img/weapon_stachu01.png" width="640" height="480">
+공격 구조물 이미지
+
+활 스프라이트 제작 >> 100%  
 구조물 스프라이트 제작 >> 50%  
+구조물 스킬 스프라이트가 남아있음
 
 ## 11주
+<img src="./img/weapon_stachu02.png" width="640" height="480">
+스킬 구조물 이미지
+
+<video controls width="480" height="360">
+    <source src="files/re-week12.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
 구조물 스킬 스프라이트 제작 >> 100%  
 방향 표시 스프라이트 제작  >> 100%  
 웨이브 수치 조정 >> 90%  
