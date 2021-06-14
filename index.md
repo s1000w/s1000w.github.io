@@ -520,6 +520,10 @@ Invoke 지연을 통해 업데이트 함수를 사용하지 않아 부담을 줄
 마우스의 방향이 정확히 반영이 안되는 문제가 있음  
 
 ## 4주
+<video controls width="480" height="360">
+    <source src="files/re-week4.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
 마우스 방향을 표시하는 오브젝트 문제해결 >> 100%  
 주교단으로 선택한 교단의 공격, 스킬 선택지의 리스트와  
 일정주기마다 작동하는 패시브 스킬의 리스트를 분리 >> 100%  
